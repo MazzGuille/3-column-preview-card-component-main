@@ -207,9 +207,24 @@ body {
 }
 
 .attribution {
-  font-size: 11px;
+  font-size: 2rem;
   text-align: center;
+  justify-content: center;
+  color: var(--Dark-cyan);
+  margin-bottom: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  grid-column-start: 2;
+  grid-column-end: 3;
+  margin-top: 3rem;
+  border: .5rem solid var(--Very-dark-cyan);
+  background-image: url(https://c.tenor.com/bhbciND-xRAAAAAC/matrix-matrix-code.gif);
+
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: var(--Bright-orange);
+  text-decoration: none;
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 2.5rem;
+  
 }
