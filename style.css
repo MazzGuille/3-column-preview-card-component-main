@@ -88,7 +88,7 @@ body {
   font-family: "Lexend Deca", sans-serif;
 }
 
-.orangeButton:hover{
+.orangeButton button:hover {
   cursor: pointer;
 }
 
@@ -144,11 +144,9 @@ body {
   font-family: "Lexend Deca", sans-serif;
 }
 
-.orangeButton:hover{
+.blueButton button:hover {
   cursor: pointer;
 }
-
-
 
 .green {
   background-color: var(--Very-dark-cyan);
@@ -204,7 +202,7 @@ body {
   font-family: "Lexend Deca", sans-serif;
 }
 
-.orangeButton:hover{
+.greenButton button:hover {
   cursor: pointer;
 }
 
